@@ -1,0 +1,6 @@
+@Localizard_HostAddress = http://localhost:5170
+
+GET {{Localizard_HostAddress}}/EmpClasses/
+Accept: application/json
+
+###

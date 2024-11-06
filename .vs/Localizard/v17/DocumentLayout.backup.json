@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tursu\\source\\repos\\Localizard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\controllers\\myentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\controllers\\myentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\controllers\\empclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\controllers\\empclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\models\\empclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\models\\empclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\views\\services\\empclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\views\\services\\empclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\data\\migrations\\20240915233219_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\data\\migrations\\20240915233219_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\localizard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\localizard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|c:\\users\\tursu\\source\\repos\\localizard\\localizard\\localizard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9666FA4B-60DF-4DC4-BD99-74D427D638C0}|Localizard\\Localizard.csproj|solutionrelative:localizard\\localizard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Program.cs",
+              "RelativeDocumentMoniker": "Localizard\\Program.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Program.cs",
+              "RelativeToolTip": "Localizard\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:32:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\MyEntity.cs",
+              "RelativeDocumentMoniker": "Localizard\\MyEntity.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\MyEntity.cs",
+              "RelativeToolTip": "Localizard\\MyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:53:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpClassService.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Views\\Services\\EmpClassService.cs",
+              "RelativeDocumentMoniker": "Localizard\\Views\\Services\\EmpClassService.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Views\\Services\\EmpClassService.cs",
+              "RelativeToolTip": "Localizard\\Views\\Services\\EmpClassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:25:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyEntityController.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Controllers\\MyEntityController.cs",
+              "RelativeDocumentMoniker": "Localizard\\Controllers\\MyEntityController.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Controllers\\MyEntityController.cs*",
+              "RelativeToolTip": "Localizard\\Controllers\\MyEntityController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:49:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Localizard\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Localizard\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:21:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Controllers\\EmpClassesController.cs",
+              "RelativeDocumentMoniker": "Localizard\\Controllers\\EmpClassesController.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Controllers\\EmpClassesController.cs",
+              "RelativeToolTip": "Localizard\\Controllers\\EmpClassesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwDoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:08:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240917044758_AddMyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240917044758_AddMyEntity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:47:58.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpClass.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Models\\EmpClass.cs",
+              "RelativeDocumentMoniker": "Localizard\\Models\\EmpClass.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Models\\EmpClass.cs",
+              "RelativeToolTip": "Localizard\\Models\\EmpClass.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:50:16.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240915233219_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915233219_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915233219_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915233219_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915233219_InitialMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:32:19.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\appsettings.json",
+              "RelativeDocumentMoniker": "Localizard\\appsettings.json",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\appsettings.json",
+              "RelativeToolTip": "Localizard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T22:34:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Localizard.http",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Localizard.http",
+              "RelativeDocumentMoniker": "Localizard\\Localizard.http",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Localizard.http",
+              "RelativeToolTip": "Localizard\\Localizard.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-15T23:55:17.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240915232605_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915232605_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:26:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Localizard.csproj",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Localizard.csproj",
+              "RelativeDocumentMoniker": "Localizard\\Localizard.csproj",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Localizard.csproj",
+              "RelativeToolTip": "Localizard\\Localizard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T23:21:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240915230434_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915230434_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:04:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240915230024_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915230024_InitialMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:00:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240915224934_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915224934_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:49:34.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240915224259_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs",
+              "RelativeToolTip": "Localizard\\Data\\Migrations\\20240915224259_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:42:59.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
