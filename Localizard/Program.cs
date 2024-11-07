@@ -110,12 +110,14 @@ options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
 });
 
 
-builder.Services.AddHttpClient<LocalizardService>();
+
 builder.Services.AddControllers();
 
 
 
- 
+
+
+
 builder.Services.AddCors(p =>
 {
     p.AddPolicy("cors", pl =>

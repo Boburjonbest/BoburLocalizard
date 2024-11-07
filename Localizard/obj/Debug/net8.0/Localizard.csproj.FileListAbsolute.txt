@@ -254,3 +254,4 @@ C:\Users\tursu\source\repos\Localizard\Localizard\bin\Debug\net8.0\Microsoft.Ext
 C:\Users\tursu\source\repos\Localizard\Localizard\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\tursu\source\repos\Localizard\Localizard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\tursu\source\repos\Localizard\Localizard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tursu\source\repos\Localizard\Localizard\obj\Debug\net8.0\Localizard.sourcelink.json

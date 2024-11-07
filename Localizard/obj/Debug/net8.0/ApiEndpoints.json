@@ -409,6 +409,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Localizard.Controllers.ProyController",
+    "Method": "GetProject",
+    "RelativePath": "api/Proy/GetProjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Localizard.Controllers.Tags",
     "Method": "Create",
     "RelativePath": "api/Tags",
