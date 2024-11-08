@@ -2,6 +2,7 @@
 using Localizard.Data.Migrations;
 using Localizard.Models;
 using Localizard.Views.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -20,6 +21,7 @@ namespace Localizard.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "user,admin")]
         [HttpGet("GetProjects")]
         public async Task<IActionResult> GetProject([FromQuery] string projectName)
         {
