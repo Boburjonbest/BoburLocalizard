@@ -21,7 +21,7 @@ namespace Localizard.Controllers
             _context = context;
         }
 
-        [Authorize(Roles = "user,admin")]
+    
         [HttpGet("GetProjects")]
         public async Task<IActionResult> GetProject([FromQuery] string projectName)
         {
