@@ -28,47 +28,6 @@ namespace Localizard.Views.Services
        
         }
 
-
-       
-      
-
-      
-
-        //public string GenerateJwtToken(User user)
-        //{
-            
-        //    if (user == null)
-        //    {
-        //        throw new ArgumentNullException(nameof(user), "User cannot be null");
-        //    }
-
-        //    var claims = new List<Claim>
-        //    {
-        //        new Claim(JwtRegisteredClaimNames.Sub, user.Username),
-        //        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-        //    };
-
-            
-        //    if (!string.IsNullOrWhiteSpace(user.Role))
-        //    {
-        //        claims.Add(new Claim(ClaimTypes.Role, user.Role));
-        //    }
-
-
-        //    var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
-        //    var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-
-        //    var token = new JwtSecurityToken(
-        //        issuer: _config["Jwt:Issuer"],
-        //        audience: _config["Jwt:Audience"],
-        //        claims: claims,
-        //        expires: DateTime.Now.AddHours(1),
-        //        signingCredentials: creds
-        //    );
-
-        //    return new JwtSecurityTokenHandler().WriteToken(token);
-        //}
-
         public string GenerateJwtToken(User user)
         {
             var tokenHandler = new JwtSecurityTokenHandler();

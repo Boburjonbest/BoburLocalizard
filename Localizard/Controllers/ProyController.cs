@@ -48,8 +48,6 @@ namespace Localizard.Controllers
             {
                 id = p.Id,
                 namekeys = p.Namekeys,
-                parent = p.ParentId,
-                tags = p.Tags,
                 translations = p.Translations.Select(t => new
                 {
                     t.Key,

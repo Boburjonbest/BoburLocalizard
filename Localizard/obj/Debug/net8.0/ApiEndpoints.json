@@ -100,16 +100,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Localizard.Controllers.EmpClassesController",
-    "Method": "Index",
-    "RelativePath": "api/EmpClasses",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "Localizard.Controllers.LanguageController",
     "Method": "GetLanguage",
     "RelativePath": "api/Language",
@@ -448,32 +438,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Localizard.Controllers.EmpClassesController",
-    "Method": "Create",
-    "RelativePath": "Create",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "DefaultLanguage",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "AvailableLanguage",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
     "ReturnTypes": []
   }
 ]

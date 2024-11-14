@@ -6,18 +6,14 @@ namespace Localizard.Models
     {
         [Key]
 
-     
-
         public string? Name { get; set; } = null!;
 
         public string? DefaultLanguage { get; set; } = null!;
 
         public string? AvailableLanguage { get; set; } = null!;
 
-
-
-        //public DateTime CreatedAt { get; set; } = DateTime.Now;
-        //public DateTime UpdatedAt { get; set; } = DateTime.Now;
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public DateTime UpdatedAt { get; set; } = DateTime.Now;
 
     }
 
