@@ -13,7 +13,5 @@ namespace Localizard.Models
         [JsonIgnore]
         public int ObyektPerevodId { get; set; }
 
-       
-      
     }
 }

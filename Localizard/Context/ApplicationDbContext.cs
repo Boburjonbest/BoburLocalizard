@@ -5,9 +5,6 @@ using System.Text.Json;
 using System.Xml;
 using static Localizard.Models.Language;
 
-
-
-
 namespace Localizard._context
 {
     public class ApplicationDbContext : DbContext
@@ -31,11 +28,6 @@ namespace Localizard._context
             }
         }
 
-
-
-
-
-
         public DbSet<Tag> Tags { get; set; }
         public DbSet<EmpClass> EmpClasses { get; set; }
 
@@ -57,14 +49,6 @@ namespace Localizard._context
         public DbSet<ObyektPerevod> ObyektPerevods { get; set; }
         public DbSet<ObyektTranslation> ObyektTranslations { get; set; }
      
-
-
-
-
-
-
-
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
 
@@ -72,15 +56,7 @@ namespace Localizard._context
            new Role { Id = 1, Name = "User" },
            new Role { Id = 2, Name = "Admin" }
        );
-            //var converter = new ValueConverter<TranslationContent, string>(
-            //    v => JsonConvert.SerializeObject(v), 
-            //    v => JsonConvert.DeserializeObject<TranslationContent>(v)); 
-
-            //modelBuilder.Entity<Perevod>()
-            //    .HasKey(p => new { p.Id, p.Name, p.Russian, p.English, p.ParentId });
-
-          
-
+           
             modelBuilder.Entity<Language>()
                 .ToTable("languages")
                 .Property(l => l.PluralForms)

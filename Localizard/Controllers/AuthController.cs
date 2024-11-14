@@ -44,19 +44,6 @@ namespace Localizard.Controllers
                     
             var response = new AuthResponse(token, user.Username, user.Role);
 
-            //Пустой страница для пользователей
-            //if(user.Role == "user")
-            //{
-            //    return Ok(new
-            //    {
-            //        message = "Success",
-            //        token,
-            //        role = user.Role
-
-            //    });
-            //}
-
-
             return Ok(new
             {
                 token,
@@ -110,9 +97,6 @@ namespace Localizard.Controllers
 
             });
         }
-
-
-       
 
         [Authorize]
         [HttpDelete]

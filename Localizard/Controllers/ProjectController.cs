@@ -213,11 +213,6 @@ namespace Localizard.Controllers
                     return Forbid();
                 }
 
-                //if (entity.UserId != userId)
-                //{
-                //    return Forbid(); 
-                //}
-
                 return Ok(entity);
                 }
                 catch (Exception ex)

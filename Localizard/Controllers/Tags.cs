@@ -17,7 +17,7 @@ namespace Localizard.Controllers
         {
             _context = context;
         }
-        //Tags POST
+     
         [Authorize]
         [HttpPost]
         public IActionResult Create([FromBody] Tag tags)
@@ -34,7 +34,6 @@ namespace Localizard.Controllers
             return BadRequest();
         }
 
-        //Tags GET
         [Authorize]
         [HttpGet("tags")]
         public IActionResult GetTags()
