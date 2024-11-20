@@ -3,7 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json;
 using System.Xml;
-using static Localizard.Models.Language;
+using Localizard.Domain.Entites;
+using Permission = Localizard.Models.Permission;
+
 
 namespace Localizard._context
 {
@@ -27,27 +29,20 @@ namespace Localizard._context
                     .EnableSensitiveDataLogging();
             }
         }
-
-        public DbSet<Tag> Tags { get; set; }
-        public DbSet<EmpClass> EmpClasses { get; set; }
-
-        public DbSet<Project> MyEntities { get; set; }
-
-
-
-        public DbSet<Language> languages { get; set; }
+        
 
      
-
+        public DbSet<Language> Languages { get; set; }
+        public DbSet<ProjectInfo> Projects { get; set; }
+        public DbSet<ProjectDetail> ProjectDetails{ get; set; }
+        public DbSet<Translation> Translations { get; set; }
         public DbSet<User> Users { get; set; }
-       public DbSet<Role> Roles { get; set; }
-       public DbSet<Permission> Permissions { get; set; }
-       public DbSet<RolePermission> RolePermissions { get; set; }
-
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<Permission> Permissions { get; set; }
+        public DbSet<RolePermission> RolePermissions { get; set; }
         public DbSet<RegisterModel> RegisterModels { get; set; }
         public DbSet<LoginModel> LoginModels { get; set; }
-        public DbSet<ObyektPerevod> ObyektPerevods { get; set; }
-        public DbSet<ObyektTranslation> ObyektTranslations { get; set; }
+      
      
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -57,13 +52,7 @@ namespace Localizard._context
            new Role { Id = 2, Name = "Admin" }
        );
            
-            modelBuilder.Entity<Language>()
-                .ToTable("languages")
-                .Property(l => l.PluralForms)
-                .HasColumnType("text[]");
-
-            modelBuilder.Entity<Language>()
-                .HasKey(l => l.Id);
+          
 
 
             modelBuilder.Entity<LoginModel>().HasNoKey();
@@ -94,126 +83,6 @@ namespace Localizard._context
              .WithOne(r => r.User) 
              .HasForeignKey<Role>(r => r.UserId) 
              .IsRequired();
-            
-
-            modelBuilder.Entity<Project>()
-           .HasKey(p => p.Id);
-
-            modelBuilder.Entity<Project>()
-             .Property(p => p.AvailableLanguage)
-              .HasColumnType("text[]");
-
-            modelBuilder.Entity<User>()
-                 .HasIndex(u => u.Username)
-                 .IsUnique();
-
-            modelBuilder.Entity<Language>()
-            .HasKey(l => new { l.Name, l.LanguageCode });
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //modelBuilder.Entity<Perevod>()
-            //    .Ignore(p => p.Perevods);
-            //modelBuilder.Entity<Perevod>()
-            //    .HasKey(p => p.Id);
-            //modelBuilder.Entity<PerevodDetails>()
-            //    .HasNoKey();
-            //base.OnModelCreating(modelBuilder);
-
-            //modelBuilder.Entity<Perevod>(entity =>
-            //{
-            //    entity.HasKey(e => e.Id);
-            //    entity.Property(e => e.Name).IsRequired();
-            //entity.Property(e => e.Russian).IsRequired();
-            //entity.Property(e => e.English).IsRequired();
-            //entity.Property(e => e.ParentId).IsRequired(false);
-
-            //});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            /*public override int SaveChanges()
-            {
-                foreach (var entry in ChangeTracker.Entries<MyEntity>())
-                {
-                    if (entry.State == EntityState.Modified)
-                    {
-                        entry.Entity.UpdatedAt = DateTime.Now;
-
-                    }
-                    else if (entry.State == EntityState.Added)
-                    {
-                        entry.Entity.CreatedAt = DateTime.Now;
-                        entry.Entity.UpdatedAt = DateTime.Now;
-                    }
-                }
-                return base.SaveChanges();
-            }*/
-
-
-
         }
     }
 }

@@ -51,7 +51,7 @@ builder.Services.AddAuthorization(options =>
 
 );
 
-builder .Services.AddScoped<ProjectService>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
@@ -61,7 +61,7 @@ options.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
 options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
 {
     In = ParameterLocation.Header,
-    Description = "Введите токен в формате **Bearer {ваш токен}**",
+    Description = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ **Bearer {пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ}**",
     Name = "Authorization",
     Type = SecuritySchemeType.Http,
     Scheme = "bearer"

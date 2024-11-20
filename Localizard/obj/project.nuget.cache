@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KatQLRXgKpU=",
+  "dgSpecHash": "eSow5Wy6ve4=",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Localizard\\Localizard\\Localizard.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tursu\\.nuget\\packages\\autofac\\8.1.1\\autofac.8.1.1.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\automapper.contrib.autofac.dependencyinjection\\8.1.0\\automapper.contrib.autofac.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\azure.core\\1.43.0\\azure.core.1.43.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\fluentassertions\\6.12.1\\fluentassertions.6.12.1.nupkg.sha512",
@@ -150,7 +153,7 @@
     "C:\\Users\\tursu\\.nuget\\packages\\system.composition.typedparts\\7.0.0\\system.composition.typedparts.7.0.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\tursu\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",

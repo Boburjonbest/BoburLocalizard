@@ -26,26 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\tursu\source\repos\Localizard\Localizard
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tursu/source/repos/Localizard/Localizard/Views/EmpClasses/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wQ2xhc3Nlc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tursu/source/repos/Localizard/Localizard/Views/EmpClasses/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wQ2xhc3Nlc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tursu/source/repos/Localizard/Localizard/Views/EmpClasses/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wQ2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tursu/source/repos/Localizard/Localizard/Views/EmpClasses/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tursu/source/repos/Localizard/Localizard/Views/EmpClasses/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/tursu/source/repos/Localizard/Localizard/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
